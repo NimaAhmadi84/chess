@@ -1,4 +1,3 @@
-
 import { Piece } from './piece.js';
 import { isValidPawnMove, handlePawnPromotion } from './move-logic/pawn.js';
 import { isValidRookMove } from './move-logic/rook.js';
