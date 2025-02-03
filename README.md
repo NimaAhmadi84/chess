@@ -1,5 +1,5 @@
 # chess
-project strucher :
+Project structure :
 پوشه اصلی/
 ├── index.html
 ├── style.css
